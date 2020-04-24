@@ -5,9 +5,16 @@
 * [Instructions](#instructions)
 
 ## Instructions
+Description
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This project in terms of skills includes:
+    -HTML5
+    -CSS3
+    -Java Script
+    
+    
+ -The file which includes main functionality of the project is app.js.
+ -This project includes Java Script Event-Listeners and different methods to give page functionality
+ -To calculate viewport, this project use intersectionObserver.
 
-To get started, open `js/app.js` and start building out the app's functionality
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
