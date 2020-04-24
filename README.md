@@ -1,20 +1,16 @@
 # Landing Page Project
 
-## Table of Contents
-
-* [Instructions](#instructions)
-
-## Instructions
 Description
 
 This project in terms of skills includes:
-    -HTML5
-    -CSS3
-    -Java Script
+
+    - HTML5
+    - CSS3
+    - Java Script
     
     
- -The file which includes main functionality of the project is app.js.
- -This project includes Java Script Event-Listeners and different methods to give page functionality
- -To calculate viewport, this project use intersectionObserver.
+ - The file which includes main functionality of the project is app.js.
+ - This project includes Java Script Event-Listeners and different methods to give page functionality.
+ - To calculate viewport, this project use intersectionObserver.
 
 
